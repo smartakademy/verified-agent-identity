@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: smartman
 
 on:
   workflow_dispatch:
